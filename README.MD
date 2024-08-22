@@ -29,16 +29,35 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div>
   <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Christians Who Code</h3>
 
+  
+  <div class="project-description">
+    <h1>Christians Who Code - Homepage Development</h1>
+    <p><strong>Christians Who Code</strong> is an inclusive community project aimed at bringing together coders from all backgrounds—Christian and secular alike—who are passionate about ethical coding and using their skills for good. This repository is dedicated to the development of the homepage for the <strong>Christians Who Code</strong> platform.</p>
+    
+  <h2>Project Overview</h2>
+    <p>We are currently building the initial version of the homepage, which will serve as the central hub for our community. The homepage will introduce visitors to our mission, showcase resources, and provide access to collaborative projects that embody Christian values.</p>
+    
+  <h2>Key Development Goals</h2>
+    <ul>
+        <li><strong>Responsive Design</strong>: Implement a clean, responsive design that ensures an optimal user experience across all devices.</li>
+        <li><strong>Community Integration</strong>: Develop features that highlight our community's activities, including project showcases, resource sharing, and a welcoming introduction to new members.</li>
+        <li><strong>Ethical Coding Standards</strong>: Ensure all development practices align with ethical coding standards, reflecting the core values of our community.</li>
+    </ul>
+    
+  <h2>Getting Involved</h2>
+    <p>We welcome contributions from coders of all skill levels. Whether you're a front-end developer, back-end specialist, or someone passionate about community building, there's a place for you in this project.</p>
+    <p>Join us in creating a platform that reflects integrity, purpose, and faith through technology.</p>
+</div>
+
+  <br />
   <p align="center">
-    project_description
-    <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
